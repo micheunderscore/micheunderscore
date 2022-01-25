@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Furnishing Futures AR project
 - 🌱 I’m constantly improving on React, React Native, GraphQL and Javascript.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,9 +14,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-- 🔭 I’m currently working on Furnishing Futures AR project
-- 🌱 I’m constantly improving on React, React Native, GraphQL and Javascript.
-- 🤔 I’m looking for help with integrating Vuforia AR within a React Native project.
+- 🔭 I’m currently working on a secret app project _shhhhh_
+- 🌱 I’m constantly improving and learning new things on React, React Native, GraphQL and Javascript.
 
 <details>
   <summary>:zap: Github Stats</summary>
