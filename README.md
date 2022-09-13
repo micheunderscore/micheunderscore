@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-- 🔭 I’m currently working on a secret app project _shhhhh_
+- 🔭 I’m currently working on getting a job _huhuhu_
 - 🌱 I’m constantly improving and learning new things on React, React Native, GraphQL and Javascript.
 
 <details>
