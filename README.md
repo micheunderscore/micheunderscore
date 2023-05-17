@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-- 🔭 I’m currently working on getting a job _huhuhu_
-- 🌱 I’m constantly improving and learning new things on React, React Native, GraphQL and Javascript.
+- 🔭 I’m currently working on Beyond The Board and Not Safe For Work! 😉
+- 🌱 I’m currently learning Angular (For work lel)
 
 <details>
   <summary>:zap: Github Stats</summary>
